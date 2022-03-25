@@ -4,7 +4,7 @@ exports[`./Start.vue when load page, Start page renders correctly 1`] = `
 <div class="container">
   <p class="c-title">Новый сайт</p>
   <div class="c-card">
-    <b-field-stub label="Название сайта" addons="true">
+    <b-field-stub label="Название бота" addons="true">
       <b-input-stub usehtml5validation="true" value="" type="text" hascounter="true" customclass=""></b-input-stub>
     </b-field-stub>
     <b-button-stub type="is-success" nativetype="button" tag="button" disabled="true">Начать проектирование</b-button-stub>
